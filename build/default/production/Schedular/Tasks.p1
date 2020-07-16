@@ -1,0 +1,37 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"9 Schedular/Tasks.c
+[; ;Schedular/Tasks.c: 9: void Scheduler_Task1(void)
+[v _Scheduler_Task1 `(v ~T0 @X0 1 ef ]
+"10
+[; ;Schedular/Tasks.c: 10: {
+{
+[e :U _Scheduler_Task1 ]
+[f ]
+"12
+[; ;Schedular/Tasks.c: 12: }
+[e :UE 1 ]
+}
+"15
+[; ;Schedular/Tasks.c: 15: void Scheduler_Task2(void)
+[v _Scheduler_Task2 `(v ~T0 @X0 1 ef ]
+"16
+[; ;Schedular/Tasks.c: 16: {
+{
+[e :U _Scheduler_Task2 ]
+[f ]
+"18
+[; ;Schedular/Tasks.c: 18: }
+[e :UE 2 ]
+}
+"20
+[; ;Schedular/Tasks.c: 20: void Scheduler_Task3(void)
+[v _Scheduler_Task3 `(v ~T0 @X0 1 ef ]
+"21
+[; ;Schedular/Tasks.c: 21: {
+{
+[e :U _Scheduler_Task3 ]
+[f ]
+"23
+[; ;Schedular/Tasks.c: 23: }
+[e :UE 3 ]
+}
